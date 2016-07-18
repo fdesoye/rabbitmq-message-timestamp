@@ -3,6 +3,9 @@
 This plugin fills the `timestamp` property of a message as it enters
 RabbitMQ with the current (server node) timestamp value.
 
+#Additional plugins
+This fork contains additionally the built plugin of the original repository.
+
 ## Supported RabbitMQ Versions ##
 
 This plugin targets RabbitMQ 3.6.0 and later versions.

@@ -8,6 +8,5 @@
 /doc/
 /ebin/
 /logs/
-/plugins/
 
 /rabbitmq_message_timestamp.d
